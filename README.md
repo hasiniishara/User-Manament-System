@@ -1,5 +1,5 @@
 # User-Manament-System
-<p>This system include below operatons</p>
+<p>This system include below operations</p>
 <ul>
   <li>Add Users</li>
   <li>Edit Users</li>
