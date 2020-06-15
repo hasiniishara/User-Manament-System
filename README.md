@@ -1,5 +1,10 @@
 # User-Manament-System
-
+<p>This system include below operatons</p>
+<ul>
+  <li>Add Users</li>
+  <li>Edit Users</li>
+  <li>View Users</li>
+  </ul>
 <p>Used Techonology.</p>
 <ul>Frontend
   <li>Reactjs</li>
